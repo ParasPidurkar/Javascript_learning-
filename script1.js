@@ -1,0 +1,1 @@
+console.log("This is paras calling the script.js file")
